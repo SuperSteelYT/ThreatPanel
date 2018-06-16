@@ -1,10 +1,10 @@
 name: ToggleMod
-main: me.superischroma.backdoormod.BackDoorMod
-version: 1.0
+main: me.superischroma.threatpanel.ThreatPanel
+version: 1.0.1
 depend: [Aero]
 author: [Super_]
 commands:
     togglemod:
         description: Main command for the ToggleMod.
         usage: /<command> [access | close | number]
-        aliases: [bdm,bd,backdoormod,backdoor]
+        aliases: [trp,threatpanel,threatp,tpanel]
